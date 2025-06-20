@@ -43,3 +43,8 @@ Let’s make tech that matters. ✨
 [![MiAula](https://img.shields.io/badge/MiAula-Academic%20Platform-success?style=for-the-badge&logo=googleclassroom)](https://github.com/Jesuszenro/MiAula)
 
 [![MyCropProject](https://img.shields.io/badge/MyCropProject-ML%20&%20QR%20Tools-yellowgreen?style=for-the-badge&logo=google)](https://github.com/Jesuszenro/MyCropProject)
+
+### :zap: Actividad Reciente
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
