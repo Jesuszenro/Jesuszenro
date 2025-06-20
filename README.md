@@ -45,6 +45,6 @@ Let’s make tech that matters. ✨
 [![MyCropProject](https://img.shields.io/badge/MyCropProject-ML%20&%20QR%20Tools-yellowgreen?style=for-the-badge&logo=google)](https://github.com/Jesuszenro/MyCropProject)
 
 ### :zap: Actividad Reciente
-<!--START_SECTION:activity-->
+<!--RECENT_ACTIVITY:start-->
 
-<!--END_SECTION:activity-->
+<!--RECENT_ACTIVITY:last_update-->
